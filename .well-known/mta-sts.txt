@@ -1,5 +1,5 @@
 version: STSv1
 mode: none
 mx: mx.pauledwards.com
-mx: mx.pauledards.name
+mx: mx.pauledwards.name
 max_age: 86400
